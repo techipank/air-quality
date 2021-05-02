@@ -8,6 +8,6 @@ App is subscribing to ws://city-ws.herokuapp.com for live feed of the data
 
 Download zip extract it and navigate to the folder and run following command
 
-# npm i
+ npm i
 
-# npm start
+ npm start
